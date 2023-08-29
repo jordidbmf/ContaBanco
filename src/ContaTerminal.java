@@ -8,7 +8,7 @@ public class ContaTerminal {
 
         //Obter pela scanner os valores digitados no terminal
 
-        System.out.println("Por favor, digite o seu Nome e um Sobrenome: ");
+        System.out.println("Por favor, digite o seu Nome: ");
         String nomeCliente = scanner.nextLine();
 
         System.out.println("Por favor, digite o número da Agência: ");
